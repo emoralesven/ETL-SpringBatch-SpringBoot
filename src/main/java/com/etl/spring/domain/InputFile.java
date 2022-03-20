@@ -1,4 +1,4 @@
-package com.spring.domain;
+package com.etl.spring.domain;
 
 /**
  * 

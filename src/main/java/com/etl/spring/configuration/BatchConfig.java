@@ -17,10 +17,10 @@ import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
 import org.springframework.stereotype.Component;
 
+import com.etl.spring.domain.InputFile;
 import com.etl.spring.step1.ItemProcessorStep1;
 import com.etl.spring.step1.ItemReaderStep1;
 import com.etl.spring.step1.ItemWriteStep1;
-import com.spring.domain.InputFile;
 
 
 /**
